@@ -9,4 +9,6 @@ function isLeapYear(year){
 }
 
 let result=isLeapYear(2012);
-console.log(result)
+let res=isLeapYear(1900);
+console.log(result);
+console.log(res);
