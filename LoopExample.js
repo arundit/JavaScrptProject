@@ -1,8 +1,8 @@
-/*let num=12;
+let num=12;
 let i=1;
 while(i<=10)
 {
-    console.log(num*i);
+    console.log(num+"*"+i+"="+num*i);
     i=i+1;
 }
 
@@ -12,7 +12,7 @@ while(j<=100)
 {
     console.log(j)
     j=j+2;
-}*/
+}
 
 let num3=42043;
 let sum=0;
